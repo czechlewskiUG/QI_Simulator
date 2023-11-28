@@ -247,8 +247,8 @@
         "name": "Cieszyn",
         "address": "Cieszyn",
         "coordinates": {
-            "latitude": 0,
-            "longitude": 0
+            "latitude": 49.76396942,
+            "longitude": 18.62089348
         },
         "type": "Punkt styku na granicy"
     },
@@ -258,8 +258,8 @@
         "name": "Gronowo",
         "address": "Gronowo",
         "coordinates": {
-            "latitude": 0,
-            "longitude": 0
+            "latitude": 53.10159302,
+            "longitude": 18.7894001
         },
         "type": "Punkt styku na granicy"
     },
@@ -269,8 +269,8 @@
         "name": "Gubin",
         "address": "Gubin",
         "coordinates": {
-            "latitude": 0,
-            "longitude": 0
+            "latitude": 51.95280075,
+            "longitude": 14.72604275
         },
         "type": "Punkt styku na granicy"
     },
@@ -280,8 +280,8 @@
         "name": "Hrebenne",
         "address": "Hrebenne",
         "coordinates": {
-            "latitude": 0,
-            "longitude": 0
+            "latitude": 50.28483582,
+            "longitude": 23.57634163
         },
         "type": "Punkt styku na granicy"
     },
@@ -291,8 +291,8 @@
         "name": "Kołbaskowo",
         "address": "Kołbaskowo",
         "coordinates": {
-            "latitude": 0,
-            "longitude": 0
+            "latitude": 53.33563232,
+            "longitude": 14.43848515
         },
         "type": "Punkt styku na granicy"
     },
@@ -302,8 +302,8 @@
         "name": "Kuźnica Białostocka",
         "address": "Kuźnica Białostocka",
         "coordinates": {
-            "latitude": 0,
-            "longitude": 0
+            "latitude": 53.51891327,
+            "longitude": 23.64714813
         },
         "type": "Punkt styku na granicy"
     },
@@ -313,8 +313,8 @@
         "name": "Ogrodniki",
         "address": "Ogrodniki",
         "coordinates": {
-            "latitude": 0,
-            "longitude": 0
+            "latitude": 54.13175964,
+            "longitude": 23.45824432
         },
         "type": "Punkt styku na granicy"
     },
@@ -324,8 +324,8 @@
         "name": "Słubice",
         "address": "Słubice",
         "coordinates": {
-            "latitude": 0,
-            "longitude": 0
+            "latitude": 52.38688278,
+            "longitude": 14.6327343
         },
         "type": "Punkt styku na granicy"
     },
@@ -335,8 +335,8 @@
         "name": "Zwardoń",
         "address": "Zwardoń",
         "coordinates": {
-            "latitude": 0,
-            "longitude": 0
+            "latitude": 49.50345993,
+            "longitude": 18.97511673
         },
         "type": "Punkt styku na granicy"
     }
