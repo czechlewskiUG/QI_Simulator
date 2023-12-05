@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 nodesBegin=[]
 nodesEnd=[]
 edges=[]
-with open('UKE_INFO_1700491040982.csv', newline='') as csvfile:
+with open('../data/UKE_INFO_1700491040982.csv', newline='') as csvfile:
     line = csv.reader(csvfile, dialect='excel', delimiter=';', quotechar='|')
     for row in line:
         nodesBegin.append(int(row[0]))
