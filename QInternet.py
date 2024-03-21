@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 nodesBegin=[]
 nodesEnd=[]
 edges=[]
-with open('UKE_INFO_1700491040982.csv', newline='') as csvfile:
+with open('UG_TASK.csv', newline='') as csvfile:
     line = csv.reader(csvfile, dialect='excel', delimiter=';', quotechar='|')
     for row in line:
         nodesBegin.append(int(row[0]))
@@ -23,6 +23,6 @@ print('Number od edges:',G.number_of_edges())
 #print('Random node begin:',nodeBeginRandom)
 #print('Random node end:',nodeEndRandom)
 #print(nx.dijkstra_path(G, nodeBeginRandom, nodeEndRandom))
-print(nx.dijkstra_path(G, 6837743,6563274))
+print(nx.dijkstra_path(G,6198433,6487288))
 #plt.show()
 
