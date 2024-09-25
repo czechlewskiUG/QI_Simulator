@@ -1,0 +1,343 @@
+[
+    {
+        "id": 1,
+        "city": "Białystok",
+        "name": "BIAMAN Politechnika Białostocka",
+        "address": "ul. Wiejska 45A, 15-351 Białystok",
+        "coordinates": {
+            "latitude": 53.117013,
+            "longitude": 23.146329
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 2,
+        "city": "Bydgoszcz",
+        "name": "BYDMAN Politechnika Bydgoska",
+        "address": "al. prof. S. Kaliskiego 7, 85-796 Bydgoszcz",
+        "coordinates": {
+            "latitude": 53.143348,
+            "longitude": 18.130703
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 3,
+        "city": "Częstochowa",
+        "name": "CZESTMAN Politechnika Częstochowska",
+        "address": " ul. Jana Henryka Dąbrowskiego 71 42-201 Częstochowa",
+        "coordinates": {
+            "latitude": 50.822038,
+            "longitude": 19.111259
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 4,
+        "city": "Gdańsk",
+        "name": "CI TASK Centrum Informatyczne TASK, Politechnika Gdańska",
+        "address": "ul. Traugutta 75, 80-221 Gdańsk",
+        "coordinates": {
+            "latitude": 54.3703795,
+            "longitude": 18.618164
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN i KDM"
+    },
+    {
+        "id": 5,
+        "city": "Gliwice",
+        "name": "Śląska Akademicka Sieć Komputerowa, Politechnika Śląska",
+        "address": "ul.  Łużycka 5, 44-100 Gliwice",
+        "coordinates": {
+            "latitude": 50.2882455,
+            "longitude": 18.6759382
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 6,
+        "city": "Kielce",
+        "name": "KIELMAN Politechnika Świętokrzyska",
+        "address": "al. Tysiąclecia Państwa Polskiego 7 25-314 Kielce",
+        "coordinates": {
+            "latitude": 50.879471,
+            "longitude": 20.639409
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 7,
+        "city": "Koszalin",
+        "name": "KOSMAN Politechnika Koszalińska",
+        "address": "ul. Śniadeckich 2, 75-453 Koszalin",
+        "coordinates": {
+            "latitude": 54.2039681,
+            "longitude": 16.1970481
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 8,
+        "city": "Kraków",
+        "name": "CYFRONET Akademia Górniczo-Hutnicza",
+        "address": "ul. Nawojki 11, 30-950 Kraków",
+        "coordinates": {
+            "latitude": 50.0690098,
+            "longitude": 19.9092196
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN i KDM"
+    },
+    {
+        "id": 9,
+        "city": "Lublin",
+        "name": "LUBMAN Uniwersytet Marii Curie-Skłodowskiej",
+        "address": "ul. Marii Curie-Skłodowskiej 1, 20-400 Lublin",
+        "coordinates": {
+            "latitude": 51.245901,
+            "longitude": 22.55122
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 10,
+        "city": "Olsztyn",
+        "name": "OLMAN Miejska Sieć Komputerowa",
+        "address": "ul. Jana Heweliusza 8, 10-718 Olsztyn",
+        "coordinates": {
+            "latitude": 53.7622561,
+            "longitude": 20.4596003
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 11,
+        "city": "Opole",
+        "name": "MAN-OPOLE Miejska Sieć Komputerowa",
+        "address": "ul. Oleska 48, 45-052 Opole",
+        "coordinates": {
+            "latitude": 50.6733972,
+            "longitude": 17.9313842
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 12,
+        "city": "Poznań",
+        "name": "PCSS Poznańskie Centrum Superkomputerowo-Sieciowe, Instytut Chemii Bioorganicznej PAN",
+        "address": "ul. Wieniawskiego 17/19, 61-704 Poznań",
+        "coordinates": {
+            "latitude": 52.4113377,
+            "longitude": 16.917751
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN i KDM"
+    },
+    {
+        "id": 13,
+        "city": "Puławy",
+        "name": "PULMAN Instytut Uprawy Nawożenia i Gleboznawstwa-PIB",
+        "address": "ul. Czartoryskich 8, 24-100 Puławy",
+        "coordinates": {
+            "latitude": 51.412252,
+            "longitude": 21.960445
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 14,
+        "city": "Radom",
+        "name": "RAMAN Miejska Sieć Komputerowa",
+        "address": "ul. Malczewskiego 29, 26-600 Radom",
+        "coordinates": {
+            "latitude": 51.407579,
+            "longitude": 21.151807
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 15,
+        "city": "Rzeszów",
+        "name": "Rzeszowska Miejska Sieć Komputerowa, Politechnika Rzeszowska",
+        "address": "ul. Marii Skłodowskiej-Curie 8/2, 35-036 Rzeszów",
+        "coordinates": {
+            "latitude": 50.0263374,
+            "longitude": 21.9838183
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 16,
+        "city": "Szczecin",
+        "name": "Akademicka Miejska Sieć Komputerowa, Zachodniopomorski Uniwersytety Technologiczny",
+        "address": "al. Piastów 41, 71-065 Szczecin",
+        "coordinates": {
+            "latitude": 53.419878,
+            "longitude": 14.535113
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 17,
+        "city": "Toruń",
+        "name": "TORMAN Uniwersytet Mikołaja Kopernika",
+        "address": "plac Rapackiego 1, 87-100 Toruń",
+        "coordinates": {
+            "latitude": 53.009878,
+            "longitude": 18.6010129
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 18,
+        "city": "Warszawa",
+        "name": "ICM Uniwersytet Warszawski",
+        "address": "ul. Adolfa Pawińskiego 5A, 02-106 Warszawa",
+        "coordinates": {
+            "latitude": 52.2072687,
+            "longitude": 20.9789584
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN i KDM"
+    },
+    {
+        "id": 19,
+        "city": "Warszawa",
+        "name": "NASK Państwowy Instytut Badawczy",
+        "address": "ul. Kolska 12. 01-045 Warszawa",
+        "coordinates": {
+            "latitude": 52.250823,
+            "longitude": 20.9756846
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 20,
+        "city": "Wrocław",
+        "name": "WCSS Wrocławskie Centrum Sieciowo-Superkomputerowe, Politechnika Wrocławska",
+        "address": "plac Grunwaldzki 9, 50-366 Wrocław",
+        "coordinates": {
+            "latitude": 51.10922147,
+            "longitude": 17.05708876
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN i KDM"
+    },
+    {
+        "id": 21,
+        "city": "Zielona Góra",
+        "name": "ZIELMAN Uniwersytet Zielonogórski",
+        "address": "ul. Podgórna, 65-246 Zielona Góra",
+        "coordinates": {
+            "latitude": 51.93926345,
+            "longitude": 15.5254251
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 22,
+        "city": "Łódź",
+        "name": "LODMAN Politechnika Łódzka",
+        "address": "ul. Wólczańska 175, 90-924 Łódź",
+        "coordinates": {
+            "latitude": 51.754304,
+            "longitude": 19.4550139
+        },
+        "type": "Węzeł sieci Pionier, ośrodek MAN"
+    },
+    {
+        "id": 23,
+        "city": "Cieszyn",
+        "name": "Cieszyn",
+        "address": "Cieszyn",
+        "coordinates": {
+            "latitude": 49.76396942,
+            "longitude": 18.62089348
+        },
+        "type": "Punkt styku na granicy"
+    },
+    {
+        "id": 24,
+        "city": "Gronowo",
+        "name": "Gronowo",
+        "address": "Gronowo",
+        "coordinates": {
+            "latitude": 53.10159302,
+            "longitude": 18.7894001
+        },
+        "type": "Punkt styku na granicy"
+    },
+    {
+        "id": 25,
+        "city": "Gubin",
+        "name": "Gubin",
+        "address": "Gubin",
+        "coordinates": {
+            "latitude": 51.95280075,
+            "longitude": 14.72604275
+        },
+        "type": "Punkt styku na granicy"
+    },
+    {
+        "id": 26,
+        "city": "Hrebenne",
+        "name": "Hrebenne",
+        "address": "Hrebenne",
+        "coordinates": {
+            "latitude": 50.28483582,
+            "longitude": 23.57634163
+        },
+        "type": "Punkt styku na granicy"
+    },
+    {
+        "id": 27,
+        "city": "Kołbaskowo",
+        "name": "Kołbaskowo",
+        "address": "Kołbaskowo",
+        "coordinates": {
+            "latitude": 53.33563232,
+            "longitude": 14.43848515
+        },
+        "type": "Punkt styku na granicy"
+    },
+    {
+        "id": 28,
+        "city": "Kuźnica Białostocka",
+        "name": "Kuźnica Białostocka",
+        "address": "Kuźnica Białostocka",
+        "coordinates": {
+            "latitude": 53.51891327,
+            "longitude": 23.64714813
+        },
+        "type": "Punkt styku na granicy"
+    },
+    {
+        "id": 29,
+        "city": "Ogrodniki",
+        "name": "Ogrodniki",
+        "address": "Ogrodniki",
+        "coordinates": {
+            "latitude": 54.13175964,
+            "longitude": 23.45824432
+        },
+        "type": "Punkt styku na granicy"
+    },
+    {
+        "id": 30,
+        "city": "Słubice",
+        "name": "Słubice",
+        "address": "Słubice",
+        "coordinates": {
+            "latitude": 52.38688278,
+            "longitude": 14.6327343
+        },
+        "type": "Punkt styku na granicy"
+    },
+    {
+        "id": 31,
+        "city": "Zwardoń",
+        "name": "Zwardoń",
+        "address": "Zwardoń",
+        "coordinates": {
+            "latitude": 49.50345993,
+            "longitude": 18.97511673
+        },
+        "type": "Punkt styku na granicy"
+    }
+]

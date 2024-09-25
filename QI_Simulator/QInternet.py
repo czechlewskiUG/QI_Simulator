@@ -5,7 +5,11 @@ import matplotlib.pyplot as plt
 nodesBegin=[]
 nodesEnd=[]
 edges=[]
+<<<<<<< HEAD:QInternet.py
 with open('UG_TASK.csv', newline='') as csvfile:
+=======
+with open('../data/UKE_INFO_1700491040982.csv', newline='') as csvfile:
+>>>>>>> ec8a5a6ac861688224af8f05b06e2c887a2d7a01:QI_Simulator/QInternet.py
     line = csv.reader(csvfile, dialect='excel', delimiter=';', quotechar='|')
     for row in line:
         nodesBegin.append(int(row[0]))
